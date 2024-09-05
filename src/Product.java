@@ -3,7 +3,7 @@ public class Product {
     private String productName;
     private int price;
     private int quantity;
-    private final int totalPrice;
+    private int totalPrice;
     private final Category category;
 
 
